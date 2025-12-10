@@ -1,2 +1,6 @@
-#Environment variables
-//#Environment variables
+crewai
+langchain_openai
+streamlit
+python-dotenv
+langchain_community
+groq
